@@ -1,0 +1,1 @@
+{"version":3,"sources":["plan.css"],"names":[],"mappings":"AAAA,UACE,UAAW,CACX,WAAY,CACZ,oEAA4D,CAC5D,yBACF","file":"27.fac69895.chunk.css","sourcesContent":[".plan-box {\r\n  width: 100%;\r\n  height: 100%;\r\n  background: url(\"../../../../static/img/bady.gif\") no-repeat;\r\n  background-size: 100% 100%;\r\n}\r\n"]}
