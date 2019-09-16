@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 logs/
 npm-debug.log
 yarn-error.log
@@ -17,6 +18,8 @@ typings/
 
 app/public/uploads/
 =======
+=======
+>>>>>>> 0d6a9f40c10e5f9f7b3e74f1779b06507225f919
 # Logs
 logs
 *.log
@@ -78,4 +81,7 @@ typings/
 
 # next.js build output
 .next
+<<<<<<< HEAD
+>>>>>>> 0d6a9f40c10e5f9f7b3e74f1779b06507225f919
+=======
 >>>>>>> 0d6a9f40c10e5f9f7b3e74f1779b06507225f919
